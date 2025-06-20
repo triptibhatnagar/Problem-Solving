@@ -12,15 +12,15 @@ For each test case, print "NO" if a suitable n does not exist. Otherwise, output
 You can output each letter in any case (for example, "YES", "Yes", "yes", "yEs", "yEs" will be recognized as a positive answer).
 
 Example:
-Input
-7
-1 2
-77 77
-997 999
-999 1
-1000 1
-1 11
-18 1
+Input<br>
+7 <br>
+1 2 <br>
+77 77 <br>
+997 999 <br>
+999 1 <br>
+1000 1 <br>
+1 11 <br>
+18 1 <br>
 
 Output
 Yes
