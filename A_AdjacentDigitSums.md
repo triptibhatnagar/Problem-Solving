@@ -22,14 +22,14 @@ Input<br>
 1 11 <br>
 18 1 <br>
 
-Output
-Yes
-No
-No
-Yes
-No
-No
-Yes
+Output<br>
+Yes<br>
+No<br>
+No<br>
+Yes<br>
+No<br>
+No<br>
+Yes<br>
 Note
 In the first test case, for example, n=100 works. S(100)=1, S(101)=2.
 
